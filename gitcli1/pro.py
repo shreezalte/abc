@@ -1,4 +1,4 @@
 print ('data science')
-print ('AI and Gen AI')
+print ('AI')
 print ('shree')
 
